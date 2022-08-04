@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
 
-    <string name="welcome">Welcome to Pexels</string>
+   
+  <string name="welcomeOwlbot">Welcome to Owlbot</string>
+ <string name="welcomePexels">Welcome to Pexels</string>
 
 </resources>
